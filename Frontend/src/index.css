@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "JaneLight"; /* Use the same name as in tailwind.config.js */
+    src: url('/public/Assets/oddlini-light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
